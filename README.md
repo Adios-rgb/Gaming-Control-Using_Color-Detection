@@ -24,5 +24,5 @@ Contour detection using HSV masking for lateral gaming movement.
 * Apply image processing such as dilate, opening, closing to reduce noise.
 * Find contours on the processed image, get the maximum contour.
 * Apply logic to remove reverse effect of the webcam (left-right, right-left).
-* Press left button if the object you are tracking exceedes maximum left threshold and same logic for right movement.
+* Press right button if the object you are tracking exceedes maximum left threshold and same logic for left movement.
 * Display the frame.
